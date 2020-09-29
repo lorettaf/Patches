@@ -1,0 +1,37 @@
+{
+	"pattrstorage" : 	{
+		"name" : "1_sensor_MIDI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"1.smooth.up" : [ 0 ],
+					"1.smooth.down" : [ 0 ],
+					"1.min.noteout" : [ 36 ],
+					"1.max.noteout" : [ 84 ],
+					"1.velocity" : [ 100 ],
+					"1.pitch.midichannel" : [ 1 ],
+					"1.param.midichannel" : [ 1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"1.smooth.up" : [ 0 ],
+					"1.smooth.down" : [ 0 ],
+					"1.min.noteout" : [ 36 ],
+					"1.max.noteout" : [ 60 ],
+					"1.velocity" : [ 100 ],
+					"1.pitch.midichannel" : [ 1 ],
+					"1.param.midichannel" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

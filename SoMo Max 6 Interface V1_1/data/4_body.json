@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "4_body",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"4.pitch" : [ 0 ],
+					"4.invert" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"4.pitch" : [ 9 ],
+					"4.invert" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"4.pitch" : [ 9 ],
+					"4.invert" : [ 1 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"4.pitch" : [ 9 ],
+					"4.invert" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

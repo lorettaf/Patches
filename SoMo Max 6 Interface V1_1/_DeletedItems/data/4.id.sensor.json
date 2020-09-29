@@ -1,0 +1,24 @@
+{
+	"pattrstorage" : 	{
+		"name" : "4.id.sensor",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"patcher::4_audience_high_thresh" : [ 0.0 ],
+					"patcher::4_audience_low_thresh" : [ 0.0 ],
+					"4.id.window_size" : [ 4 ],
+					"4.id.schmitt_high" : [ 6.0 ],
+					"4.id.schmitt_low" : [ 3.0 ],
+					"4.id.note_on_time" : [ 2 ],
+					"4.id.note_off_time" : [ 2 ],
+					"4.id.diff_window" : [ 20 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

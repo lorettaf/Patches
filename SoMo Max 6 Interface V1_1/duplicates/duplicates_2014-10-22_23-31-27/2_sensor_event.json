@@ -1,0 +1,49 @@
+{
+	"pattrstorage" : 	{
+		"name" : "2.id.sensor",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"2.id.diff_window" : [ 30 ],
+					"2.id.wait_on_high" : [ 30 ],
+					"2.id.wait_on_low" : [ 60 ],
+					"2.id.wait_off_low" : [ 15 ],
+					"2.id.mag_range_high" : [ 90 ],
+					"2.id.mag_range_low" : [ 0 ],
+					"2.id.wait_on_high_2" : [ 10 ],
+					"2.id.wait_on_low_2" : [ 5 ],
+					"2.id.schmitt_high" : [ 6.0 ],
+					"2.id.schmitt_low" : [ 3.0 ],
+					"2.id.window_size" : [ 4 ],
+					"2_audience_high_thresh" : [ 0.0 ],
+					"2_audience_low_thresh" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"2.id.diff_window" : [ 30 ],
+					"2.id.wait_on_high" : [ 60 ],
+					"2.id.wait_on_low" : [ 60 ],
+					"2.id.wait_off_low" : [ 15 ],
+					"2.id.mag_range_high" : [ 90 ],
+					"2.id.mag_range_low" : [ 0 ],
+					"2.id.wait_on_high_2" : [ 60 ],
+					"2.id.wait_on_low_2" : [ 5 ],
+					"2.id.schmitt_high" : [ 0.9 ],
+					"2.id.schmitt_low" : [ 0.8 ],
+					"2.id.window_size" : [  ],
+					"2_audience_high_thresh" : [  ],
+					"2_audience_low_thresh" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

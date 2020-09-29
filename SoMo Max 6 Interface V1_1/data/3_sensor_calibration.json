@@ -1,0 +1,109 @@
+{
+	"pattrstorage" : 	{
+		"name" : "calibration_3",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"0_3.id.calibrate" : [ 18, 540, 1024, 531 ],
+					"1_3.id.calibrate" : [ 142, 555, 1024, 479 ],
+					"2_3.id.calibrate" : [ 247, 1024, 899, 1024 ],
+					"3_3.id.calibrate" : [ 253, 335, 966, 117 ],
+					"4_3.id.calibrate" : [ 16, 716, 929, 785 ],
+					"5_3.id.calibrate" : [ 0, 954, 1024, 954 ],
+					"6_3.id.calibrate" : [ 0, 503, 1024, 503 ],
+					"7_3.id.calibrate" : [ 0, 515, 1024, 515 ],
+					"8_3.id.calibrate" : [ 0, 521, 1024, 521 ],
+					"0_3.id.operate" : [ 0 ],
+					"1_3.id.operate" : [ 0 ],
+					"2_3.id.operate" : [ 0 ],
+					"3_3.id.operate" : [ 0 ],
+					"4_3.id.operate" : [ 0 ],
+					"5_3.id.operate" : [ 0 ],
+					"6_3.id.operate" : [ 0 ],
+					"7_3.id.operate" : [ 0 ],
+					"8_3.id.operate" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"0_3.id.calibrate" : [ 555, 1017, 1024, 1008 ],
+					"1_3.id.calibrate" : [ 0, 664, 737, 922 ],
+					"2_3.id.calibrate" : [ 63, 453, 1024, 415 ],
+					"3_3.id.calibrate" : [ 364, 512, 860, 305 ],
+					"4_3.id.calibrate" : [ 225, 286, 356, 476 ],
+					"5_3.id.calibrate" : [ 0, 1024, 1024, 1024 ],
+					"6_3.id.calibrate" : [ 1024, 504, 0, 504 ],
+					"7_3.id.calibrate" : [ 0, 511, 897, 583 ],
+					"8_3.id.calibrate" : [ 0, 517, 1024, 517 ],
+					"0_3.id.operate" : [ 0 ],
+					"1_3.id.operate" : [ 0 ],
+					"2_3.id.operate" : [ 0 ],
+					"3_3.id.operate" : [ 0 ],
+					"4_3.id.operate" : [ 0 ],
+					"5_3.id.operate" : [ 0 ],
+					"6_3.id.operate" : [ 0 ],
+					"7_3.id.operate" : [ 0 ],
+					"8_3.id.operate" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"0_3.id.calibrate" : [ 521, 763, 1024, 492 ],
+					"1_3.id.calibrate" : [ 0, 698, 1024, 698 ],
+					"2_3.id.calibrate" : [ 256, 948, 1016, 932 ],
+					"3_3.id.calibrate" : [ 131, 544, 761, 671 ],
+					"4_3.id.calibrate" : [ 241, 536, 737, 609 ],
+					"5_3.id.calibrate" : [ 65, 339, 1019, 294 ],
+					"6_3.id.calibrate" : [ 1024, 505, 0, 489 ],
+					"7_3.id.calibrate" : [ 0, 510, 1024, 510 ],
+					"8_3.id.calibrate" : [ 0, 519, 1024, 519 ],
+					"0_3.id.operate" : [ 0 ],
+					"1_3.id.operate" : [ 0 ],
+					"2_3.id.operate" : [ 0 ],
+					"3_3.id.operate" : [ 0 ],
+					"4_3.id.operate" : [ 0 ],
+					"5_3.id.operate" : [ 0 ],
+					"6_3.id.operate" : [ 0 ],
+					"7_3.id.operate" : [ 0 ],
+					"8_3.id.operate" : [ 0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"0_3.id.calibrate" : [ 555, 1017, 1024, 1008 ],
+					"1_3.id.calibrate" : [ 0, 664, 737, 922 ],
+					"2_3.id.calibrate" : [ 63, 453, 1024, 415 ],
+					"3_3.id.calibrate" : [ 364, 512, 860, 305 ],
+					"4_3.id.calibrate" : [ 225, 286, 356, 476 ],
+					"5_3.id.calibrate" : [ 0, 1024, 1024, 1024 ],
+					"6_3.id.calibrate" : [ 0, 504, 1024, 504 ],
+					"7_3.id.calibrate" : [ 0, 511, 897, 583 ],
+					"8_3.id.calibrate" : [ 0, 517, 1024, 517 ],
+					"0_3.id.operate" : [ 0 ],
+					"1_3.id.operate" : [ 0 ],
+					"2_3.id.operate" : [ 0 ],
+					"3_3.id.operate" : [ 0 ],
+					"4_3.id.operate" : [ 0 ],
+					"5_3.id.operate" : [ 0 ],
+					"6_3.id.operate" : [ 0 ],
+					"7_3.id.operate" : [ 0 ],
+					"8_3.id.operate" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

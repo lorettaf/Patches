@@ -1,0 +1,34 @@
+{
+	"pattrstorage" : 	{
+		"name" : "calibration_sensor_1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"0_1.id.calibrate" : [ 18, 528, 1024, 519 ],
+					"1_1.id.calibrate" : [ 142, 526, 1024, 445 ],
+					"2_1.id.calibrate" : [ 247, 1024, 899, 1024 ],
+					"3_1.id.calibrate" : [ 253, 520, 966, 383 ],
+					"4_1.id.calibrate" : [ 16, 294, 929, 311 ],
+					"5_1.id.calibrate" : [ 0, 98, 1024, 98 ],
+					"6_1.id.calibrate" : [ 0, 504, 1024, 504 ],
+					"7_1.id.calibrate" : [ 0, 512, 1024, 512 ],
+					"8_1.id.calibrate" : [ 0, 519, 1024, 519 ],
+					"0_1.id.operate" : [ 0 ],
+					"1_1.id.operate" : [ 0 ],
+					"2_1.id.operate" : [ 0 ],
+					"3_1.id.operate" : [ 0 ],
+					"4_1.id.operate" : [ 0 ],
+					"5_1.id.operate" : [ 0 ],
+					"6_1.id.operate" : [ 0 ],
+					"7_1.id.operate" : [ 0 ],
+					"8_1.id.operate" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

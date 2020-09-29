@@ -1,0 +1,23 @@
+{
+	"pattrstorage" : 	{
+		"name" : "2_sensor_MIDI",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"2.smooth.up" : [ 0 ],
+					"2.smooth.down" : [ 0 ],
+					"2.min.noteout" : [ 0 ],
+					"2.max.noteout" : [ 108 ],
+					"2.velocity" : [ 100 ],
+					"2.pitch.midichannel" : [ 2 ],
+					"2.param.midichannel" : [ 2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

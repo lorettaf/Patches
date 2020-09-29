@@ -1,0 +1,84 @@
+{
+	"pattrstorage" : 	{
+		"name" : "3.id.sensor",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"3.id.schmitt_high" : [ 6.0 ],
+					"3.id.schmitt_low" : [ 3.0 ],
+					"3.id.window_size" : [ 4 ],
+					"3.id.note_on_time" : [  ],
+					"3.id.note_off_time" : [  ],
+					"3.id.diff_window" : [ 20 ],
+					"patcher::3_audience_high_thresh" : [  ],
+					"patcher::3_audience_low_thresh" : [  ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"3.id.schmitt_high" : [ 6.0 ],
+					"3.id.schmitt_low" : [ 3.0 ],
+					"3.id.window_size" : [ 4 ],
+					"3.id.note_on_time" : [ 2 ],
+					"3.id.note_off_time" : [ 2 ],
+					"3.id.diff_window" : [ 20 ],
+					"patcher::3_audience_high_thresh" : [ 0.0 ],
+					"patcher::3_audience_low_thresh" : [ 0.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"3.id.schmitt_high" : [ 6.0 ],
+					"3.id.schmitt_low" : [ 3.0 ],
+					"3.id.window_size" : [ 4 ],
+					"3.id.note_on_time" : [ 2 ],
+					"3.id.note_off_time" : [ 2 ],
+					"3.id.diff_window" : [ 20 ],
+					"patcher::3_audience_high_thresh" : [ 0.0 ],
+					"patcher::3_audience_low_thresh" : [ 0.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"3.id.schmitt_high" : [ 2.8 ],
+					"3.id.schmitt_low" : [ 1.2 ],
+					"3.id.window_size" : [ 4 ],
+					"3.id.note_on_time" : [ 2 ],
+					"3.id.note_off_time" : [ 2 ],
+					"3.id.diff_window" : [ 20 ],
+					"patcher::3_audience_high_thresh" : [ 0.0 ],
+					"patcher::3_audience_low_thresh" : [ 0.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"3.id.schmitt_high" : [  ],
+					"3.id.schmitt_low" : [  ],
+					"3.id.window_size" : [  ],
+					"3.id.note_on_time" : [  ],
+					"3.id.note_off_time" : [  ],
+					"3.id.diff_window" : [ 30 ],
+					"patcher::3_audience_high_thresh" : [  ],
+					"patcher::3_audience_low_thresh" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
